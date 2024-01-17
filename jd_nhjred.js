@@ -6,7 +6,7 @@ export NHJCODE="xxxxxxx"
 export RedCount="5"
 每个账号之间延时单位毫秒
 export RedTimes="5000"
-59 59 23,19 * * * jd_nhjred.js
+1 1 1 1 * * jd_nhjred.js
 */
 
 
