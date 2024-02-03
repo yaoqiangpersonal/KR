@@ -3,7 +3,7 @@
 活动入口：QQ星儿童牛奶京东自营旗舰店->品牌会员->星系牧场
 号1默认作者助力,后续 2给1 3给2 接龙,助力需要新用户，已助力过的不能在助力
 #伊利星系牧场
-33 0-23/6 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jd_qqxing.js
+0 0-23/2 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jd_qqxing.js
 */
 
 const $ = new Env('伊利星系牧场');

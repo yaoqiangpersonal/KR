@@ -1,6 +1,6 @@
 /*
 金融签到，领取双签礼包
-50 6 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jd_jrsign.js
+30 3,16 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jd_jrsign.js
 * */
 
 const $ = new Env('金融签到');
