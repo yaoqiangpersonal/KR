@@ -1,5 +1,5 @@
 /*
-0 9,21 * * * jd_islogin.js
+0 6 6 6 * jd_islogin.js
 */
 
 const $ = new Env("京东检测Cookie是否有效");
