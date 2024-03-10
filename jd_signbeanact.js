@@ -1,7 +1,7 @@
 /*
 APP首页-领京豆
 金融双签领取
-21 3 * * * jd_signbeanact.js
+21 3,21 * * * jd_signbeanact.js
 */
 
 
